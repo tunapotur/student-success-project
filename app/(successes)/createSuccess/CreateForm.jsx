@@ -28,7 +28,7 @@ export default function CreateForm() {
     document.title = "Successes | Add a new success";
 
     return () => {
-      document.title = "Successes";
+      document.title = "Success";
     };
   }, []);
 
